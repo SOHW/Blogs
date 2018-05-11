@@ -17,6 +17,10 @@ To contribute for SOHW, you always required a [GitHub account](https://github.co
 
 We know even before you start contributing that getting set up, to work on SOHW and finding a bug that's a good fit for your skills, can be a challenge. Go through our repo and the process going on. If you find anything weird, report it to us. We are determined to solve hurdles all around to make you people comfortable.
 
+### Labels 
+
+You can find all currently open conversations under the [issues tab](https://github.com/SOHW/Blogs/issues). The current list of labels are [here](https://github.com/SOHW/Blogs/labels) and link the apt label while you create an issue.
+
 ### Reporting Bugs
 Bugs are tracked as GitHub [issues](https://github.com/SOHW/Blogs/issues/). We always say it as a friendly suggestions from your side for our improvements. A huge appreciation for you, since you are caring for us. 😍😇
 
@@ -29,10 +33,6 @@ When you create an issue, please provide the following information by filling in
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
 
-### Labels 
-
-You can find all currently open conversations under the [issues tab](https://github.com/SOHW/Blogs/issues). The current list of labels are [here](https://github.com/SOHW/Blogs/labels) and link the apt label while you create an issue.
-
 ### Fixing the bug/ working on issues
 Bugs listed as ``Assigned`` are not usually a good place to start, unless you're sure you have something worthy to contribute. Someone else is already working on it! Even with no assignee, it is polite to check if someone has recently commented that they're looking at fixing the issue.
 
@@ -40,7 +40,7 @@ Once you have found something to work on, go ahead and comment! Let the bug subm
 
 ### Fork the Repository
 
-**[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
+**[Fork](https://github.com/SOHW/Blogs/wiki/Fork-the-repository) this repository**. This makes your own version of this project you can edit and use.
 **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes.
  
 Once you have made all your changes, tests, and updated the documentation, make a pull request to move everything back into the main branch of the `repository`. Be sure to reference the original issue in the pull request. Expect some back-and-forth with regards to style and compliance of these rules. If you are contributing for an issue, then please add the issue number in the comment while sending us a pull request.
@@ -51,6 +51,8 @@ Once you have made all your changes, tests, and updated the documentation, make 
 
 Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable. 
 [Contribution to SOHW](https://sohw.github.io/Blogs/categories/Contribution-to-SOHW) is a simple blog takes only 5 mins, please have a look and let start to do big!!
+
+For more information about reposiotry, forking, PR or anything have a look at [SOHW Wiki](https://github.com/SOHW/Blogs/wiki)!!
 
 
 ## Thank You!!!
