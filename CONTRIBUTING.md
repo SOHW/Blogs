@@ -17,6 +17,10 @@ To contribute for SOHW, you always required a [GitHub account](https://github.co
 
 We know even before you start contributing that getting set up, to work on SOHW and finding a bug that's a good fit for your skills, can be a challenge. Go through our repo and the process going on. If you find anything weird, report it to us. We are determined to solve hurdles all around to make you people comfortable.
 
+### Labels 
+
+You can find all currently open conversations under the [issues tab](https://github.com/SOHW/Blogs/issues). The current list of labels are [here](https://github.com/SOHW/Blogs/labels) and link the apt label while you create an issue.
+
 ### Reporting Bugs
 Bugs are tracked as GitHub [issues](https://github.com/SOHW/Blogs/issues/). We always say it as a friendly suggestions from your side for our improvements. A huge appreciation for you, since you are caring for us. 😍😇
 
@@ -28,10 +32,6 @@ When you create an issue, please provide the following information by filling in
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
-
-### Labels 
-
-You can find all currently open conversations under the [issues tab](https://github.com/SOHW/Blogs/issues). The current list of labels are [here](https://github.com/SOHW/Blogs/labels) and link the apt label while you create an issue.
 
 ### Fixing the bug/ working on issues
 Bugs listed as ``Assigned`` are not usually a good place to start, unless you're sure you have something worthy to contribute. Someone else is already working on it! Even with no assignee, it is polite to check if someone has recently commented that they're looking at fixing the issue.
@@ -50,7 +50,9 @@ Once you have made all your changes, tests, and updated the documentation, make 
 **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
 Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable. 
-[Contribution to SOHW](https://sohw.github.io/Blogs/categories/Contribution-to-SOHW) is a simple blog takes only 5 mins, please have a look and let start to do big and don't forget to have a look on [SOHW Wiki](https://github.com/SOHW/Blogs/wiki/Description-on-SOHW-repository-files)!!
+[Contribution to SOHW](https://sohw.github.io/Blogs/categories/Contribution-to-SOHW) is a simple blog takes only 5 mins, please have a look and let start to do big!!
+
+For more information about reposiotry, forking, PR or anything have a look at [SOHW Wiki](https://github.com/SOHW/Blogs/wiki)!!
 
 
 ## Thank You!!!
