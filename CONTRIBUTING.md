@@ -40,7 +40,7 @@ Once you have found something to work on, go ahead and comment! Let the bug subm
 
 ### Fork the Repository
 
-**[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
+**[Fork](https://github.com/SOHW/Blogs/wiki/Fork-the-repository) this repository**. This makes your own version of this project you can edit and use.
 **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes.
  
 Once you have made all your changes, tests, and updated the documentation, make a pull request to move everything back into the main branch of the `repository`. Be sure to reference the original issue in the pull request. Expect some back-and-forth with regards to style and compliance of these rules. If you are contributing for an issue, then please add the issue number in the comment while sending us a pull request.
@@ -50,7 +50,7 @@ Once you have made all your changes, tests, and updated the documentation, make 
 **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
 Be sure to add the relevant tests before making the pull request. Docs will be updated automatically when we merge to `master`, but you should also build the docs yourself and make sure they're readable. 
-[Contribution to SOHW](https://sohw.github.io/Blogs/categories/Contribution-to-SOHW) is a simple blog takes only 5 mins, please have a look and let start to do big!!
+[Contribution to SOHW](https://sohw.github.io/Blogs/categories/Contribution-to-SOHW) is a simple blog takes only 5 mins, please have a look and let start to do big and don't forget to have a look on [SOHW Wiki](https://github.com/SOHW/Blogs/wiki/Description-on-SOHW-repository-files)!!
 
 
 ## Thank You!!!
