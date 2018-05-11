@@ -1,6 +1,6 @@
 ![SOHW]( /assets/images//SOHW_Black.png )
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SOHW/sohw.github.io/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SOHW/Blogs/blob/master/LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/SOHW/sohw.github.io/issues/new) 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SpreadOpenHealthyWeb/Forum/)
 
@@ -11,7 +11,7 @@ This page ([README](https://github.com/SOHW/Blogs/blob/master/README.md) file) i
 
 *	[What it is?](#what-it-is)
 *	[Why does this project exist?](#why-does-this-project-exist)
-*	[What we plan to do about it?](#what-we-plan-to-do-about-it)
+*	[What we plan for it?](#what-we-plan-for-it)
 *	[How are we doing it?](#how-are-we-doing-it)
 *	[Contribution](#contribution)
 *	[Participation Guidelines](#participation-guidelines)
