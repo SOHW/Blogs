@@ -42,7 +42,7 @@ Welcome to Bug Verification Day !!!
 
 <b>Step 5:</b><br>
 &nbsp;&nbsp; Open the list of bugs to verify. While opening the list of bugs choose the link for the browser which you are currently working.
-For example: If I am working with nightly I have to open the bug list for nightly browser.
+<i>For example:</i> If I am working with nightly I have to open the bug list for nightly browser.
 
 
 
@@ -50,60 +50,63 @@ For example: If I am working with nightly I have to open the bug list for nightl
 &nbsp;&nbsp; Choose a bug from the list
 
 <b>Step 7:</b><br> 
-After choosing the bug :  
-First verify whether the bug is marked as Resolved and Fixed.
-Take note of the platforms / operating systems affected by the bug.
-Read all the comments in order to understand the bug.
-Download an affected build and reproduce the issue.
-Download latest Firefox builds, on which the bug has been fixed and try to reproduce the bug again.
-Try to also test around the fixed area, to make sure nothing got broken when the bug has been fixed.
-Step 8:
-Scenarios you might encounter:
-If unable to understand the issue, ask for more information..
-If the issue can't be reproduced by the tester, a comment must be added asking for more information or just notifying that the issue could not  be reproduced. In this case is not relevant verifying the bug on latest builds.
-If the issue is reproducible only on a specific platform at which the tester don't have access too, then verifying the issue is also not relevant.
-If better STR are provided in the comments below comment0, then those STR must be used in order to verify the bug.
-If the build with the fix is not released, we use tinderbox builds, or wait until the build is available.
-If another issue is found while verifying a bug, we check to see if the issue is not already logged and if not, log a new bug.
+After choosing the bug :<br>
+<ul>
+  <li>First verify whether the bug is marked as Resolved and Fixed.</li>
+  <li>Take note of the platforms / operating systems affected by the bug.</li>
+  <li>Read all the comments in order to understand the bug.</li>
+  <li>Download an affected build and reproduce the issue.</li>
+  <li>Download latest Firefox builds, on which the bug has been fixed and try to reproduce the bug again.</li>
+  <li>Try to also test around the fixed area, to make sure nothing got broken when the bug has been fixed.</li>
+ </ul>
+ <br> 
+ 
+<b>Step 8:</b><br>
+Scenarios you might encounter:<br>
+<ul>
+  <li>If unable to understand the issue, ask for more information..</li>
+  <li>If the issue can't be reproduced by the tester, a comment must be added asking for more information or just notifying that the issue could not  be reproduced. In this case is not relevant verifying the bug on latest builds.</li>
+  <li>If the issue is reproducible only on a specific platform at which the tester don't have access too, then verifying the issue is also not relevant.</li>
+  <li>If better STR are provided in the comments below comment0, then those STR must be used in order to verify the bug.</li>
+  <li>If the build with the fix is not released, we use tinderbox builds, or wait until the build is available.</li>
+  <li>If another issue is found while verifying a bug, we check to see if the issue is not already logged and if not, log a new bug.</li>
+  </ul>
+  <br>
 
-For example :
-I have chosen this bug https://bugzilla.mozilla.org/show_bug.cgi?id=1300376
+<b><i>For example :<b><i>
+&nbsp;&nbsp; I have chosen this bug [https://bugzilla.mozilla.org/show_bug.cgi?id=1300376](https://bugzilla.mozilla.org/show_bug.cgi?id=1300376)<br>
+  
 
-
-
-
-After doing the steps mentioned in Step 7, I clearly understood what the bug is and reproduced the bug and found the bug has been fixed. If you can't understand the bug then u can refer step 8
-While reproducing the bug if you find the bug has not been fixed then u can mention it the comment
+&nbsp;&nbsp; After doing the steps mentioned in Step 7, I clearly understood what the bug is and reproduced the bug and found the bug has been fixed. If you can't understand the bug then u can refer step 8<br>
+While reproducing the bug if you find the bug has not been fixed then u can mention it the comment<br>
 
 <b>Step 9:</b><br>At the top click edit option
 
 
 
-Step 10 : 
-[If you could not reproduce the bug or not sure if its verified, please ignore this step]    
-Under tracking flag section , you can see a list of option corresponding to their respective browsers (refer screenshot below) 
+<b>Step 10 :<p>[If you could not reproduce the bug or not sure if its verified, please ignore this step]</p></b><br>    
+&nbsp;&nbsp; Under tracking flag section , you can see a list of option corresponding to their respective browsers (refer screenshot below) 
 
 
 
 Select verified from the drop down list of the browser in which you have reproduced the bug.( In this case Firefox 55)
 
 Step 11:
-           Comment in detail about the status of the bug ,the system and browser configuration you're working on. You can also add screenshots describing the bugs if necessary . While commenting don't forget to add [bugday-yyyymmdd] .
-If in need of any further information about the bug , check the Need more information from check box.
+&nbsp;&nbsp; Comment in detail about the status of the bug ,the system and browser configuration you're working on. You can also add screenshots describing the bugs if necessary . While commenting don't forget to add <b><p>[bugday-yyyymmdd]</p></b>.<br>
+If in need of any further information about the bug , check the <b>Need more information</b> from check box.<br>
+
+
+<b>Step 12:</b> Proceed with <b>Save Changes.</b><br>
+
+<b> Step 13:</b> Paste the bug URL in the etherpad.<br>
 
 
 
- Step 12: Proceed with Save Changes.
 
- Step 13: Paste the bug URL in the etherpad.
+<b>Note :<br>
+Before verifying the bug ... try to find the affected build .  U can find them in the comment section of the bug.<br>
+Download the affected build from [https://archive.mozilla.org/pub/firefox/](https://archive.mozilla.org/pub/firefox/) and verify whether you can reproduce the bug . If you can reproduce the bug in the affected build then proceed with verifying the bugs in the latest build . If you cannot reproduce the bug then no need to verify the bug in the latest build . Comment the bug details briefly ....<b>
 
-
-
-
-Note :
-Before verifying the bug ... try to find the affected build .  U can find them in the comment section of the bug .
-Download the affected build from [ https://archive.mozilla.org/pub/firefox/ ] and verify whether you can reproduce the bug . If you can reproduce the bug in the affected build then proceed with verifying the bugs in the latest build . If you cannot reproduce the bug then no need to verify the bug in the latest build . Comment the bug details briefly ....
-
-If you have any doubts feel free to ask in this Telegram group or IRC chat. If you have any queries regarding this blog please contact me using Telegram or email me at [ surentharan14@gmail.com ]
+If you have any doubts feel free to ask in this [Telegram group](https://t.me/MozIndia_QA) or [IRC chat](http://widget01.mibbit.com/?server=irc.mozilla.org&channel=%23qa). If you have any queries regarding this blog please contact me using [Telegram](https://t.me/surenvino) or email me at <b>[surentharan14@gmail.com]</b><br><br>
 
 <center><b><h1>Happy Bug Verification Day!</h1></b></center>
