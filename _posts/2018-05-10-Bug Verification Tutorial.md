@@ -73,7 +73,7 @@ Scenarios you might encounter:<br>
   </ul>
   <br>
 
-<b><i>For example :<b></i>
+<b><i>For example :<b></i><br>
 &nbsp;&nbsp; I have chosen this bug [https://bugzilla.mozilla.org/show_bug.cgi?id=1300376](https://bugzilla.mozilla.org/show_bug.cgi?id=1300376)<br>
   
 
