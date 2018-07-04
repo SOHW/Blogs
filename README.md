@@ -20,43 +20,43 @@ This page ([README](https://github.com/SOHW/Blogs/blob/master/README.md) file) i
 
 ## What it is?
 
-SOHW is an open project seeks to bring the culture of openness among people, to come forward and share their technical skills with diverse set of people. The project is designed to guide people who joined the web with keen interest to update themselves towards the current trend by learning or to develop something for the betterment of the web.
+SOHW is an open project that seeks to bring forth a culture of openness. Our goal is to have people come forward and share their technical skills with a diverse set of others. This project is designed to guide people who joined the web with a keen interest to update themselves on the current trends by learning or to develop something for the betterment of the web.
 
 *Note: This project is being developed under the Mozilla Open Leadership Program, Round 5 and mentored by [Pranshu Khanna](https://github.com/pransh15). The site was developed using [Jekyll](https://jekyllrb.com/) with github.
 
 ## Why does this project exist?
 
-*	Newcomers always find it difficult and suffers from where to start
-*	Lack of information on opportunities available in web
-*	Many advance resource materials are complex for newcomers to understand
+*	Newcomers always find it difficult and suffer from where to start
+*	Lack of information on opportunities available on the web
+*	Many advance resource materials are too complex for newcomers to understand
 *	Lack of resources at beginner level
-*	Don’t know whom to approach in the case of doubt
+*	Don’t know who to approach when in doubt
 
 ## What we plan for it?
 
 *	We offer a collection of resources that are free, open and remixable
 *	Newcomers can get guidance directly from the author of the resource or with their team easily
-*	We help newcomers to come out with flying colors
-*	Collaborating people with different technical background to share and learn their knowledge
+*	We help newcomers come out with flying colors
+*	Newcomers can collaborate with others that have different technical backgrounds and learn from their knowledge
 
 ## How are we doing it?
 
-We are developing a website where volunteers can share their resources in any field they are specialized in and where a newcomer can find and use the available resource to learn. SOHW helps to collaborate people with different technical background and allow them to crack a better solution for a problem in this open space. If any wants to develop a project, then he/she can get a group of curious people here and newcomers can join as a volunteer in any open projects. We always eager to hear the problems of newcomer and will guide them individually to make them shine in a tech field. 
+We are developing a website where volunteers can share resources from their specialized field and newcomers can use these resources to learn. SOHW helps people with different technical backgrounds collaborate. It allows them to find better solutions for problems in this open space. Those who wish to develop a project can find others with a similar goal. Newcomers can join as a volunteer on any open project they find. We are always eager to hear the problems of newcomers and will guide them individually to make them shine in a tech field. 
 
 ### Volunteers
 
-First of all, if you considering being a contributor/ volunteer, well! it's our pleasure to have you here as a pillar for us. Do you find that the resources for few topics are uncovered here or want to improvise (edit/ make changes in content) a learning material, that are already been present? Or having something to share with a newcomer? Please have a look at our [contribution guidelines](#participation-guidelines). 
+If you would like to be a contributor/volunteer, well! It's our pleasure to have you here as a pillar for us. Did you find a lack of resources for certain topics or do you want to edit an existing resource? Do you have something to share with a newcomer? Please have a look at our [contribution guidelines](#participation-guidelines). 
 
 ### Newcomers
 
-If you’re trying to learn something new and find it difficult to continue or even begin, then we’re here to help you.  If you find it difficult to understand a resource at [SOHW](https://sohw.github.io/), feel free to [reach us](#reach-us). We will help you to get connect with the author/mentor or with the team directly to clarify your doubts. So, that you can come up and even you can volunteer by writing the same content in much more simple way. We welcome you and we will be always there for your initials steps that you are taking towards the tech industry. 😊
+If you’re trying to learn something new and find it difficult to continue or even begin, then we’re here to help you. If you find it difficult to understand a resource at [SOHW](https://sohw.github.io/), feel free to [reach us](#reach-us). We will help you connect with the author/mentor/team directly to clarify your doubts. You can even volunteer to rewrite the content in a simpler way. We welcome you and will be always there for your initial steps towards the tech industry. 😊
 
 ## Contribution
 
-We need your help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated. If you’re interested in the project, feel free to open an [issue](https://github.com/SOHW/Blogs/issues/new), create a PR, or just come say ''Hi''👋 and tell us more about yourself [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/).
+We need your help to see our vision turn into reality. We welcome and appreciate any help, big or small. This includes code changes, ideas, suggestions, feedback, typos, and anything else you can think of. If you’re interested in this project, feel free to open an [issue](https://github.com/SOHW/Blogs/issues/new), create a PR, or just come say ''Hi''👋 and tell us more about yourself [here](https://gitter.im/SpreadOpenHealthyWeb/Forum/).
 
 ## Participation Guidelines
-Please read [CONTRIBUTING.md](https://github.com/SOHW/Blogs/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/SOHW/Blogs/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
 
@@ -64,7 +64,7 @@ This project is licensed under the MIT License - you can see [LICENSE](https://g
 
 ## Reach Us
 
-SOHW prides itself on being an open, accessible, and friendly community for every participants here. Is there anything to share or having any idea, feel free to bring it to our chat room on [Gitter](https://gitter.im/SpreadOpenHealthyWeb/Forum/) and just say `Hi!`. 👋
+SOHW prides itself on being an open, accessible, and friendly community for every participant here. If you have anything to share, feel free to bring it to our chat room on [Gitter](https://gitter.im/SpreadOpenHealthyWeb/Forum/) and just say `Hi!`. 👋
 
 We would love to hear from you. You can also contact Fahima Zulfath by email (fahimazulfath [dot] a [at] gmail [dot] com) or on [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/FahimaZulfath.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2FFahimaZulfath).
 
